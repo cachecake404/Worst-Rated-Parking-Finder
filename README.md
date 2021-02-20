@@ -13,4 +13,7 @@ These parkings lots could be potential customers for AirGarage to approach.
 
 1) Open a terminal of your choice and CD into this directory. 
 2) Enter commad to start flask server: python server.py
-3) Enter command to start front end: npm start
+3) Now open another terminal with sufficent privelleges and CD into this directory again.
+4) Enter command to install front end packages: npm install .
+5) Now start front end with the command: npm start
+
